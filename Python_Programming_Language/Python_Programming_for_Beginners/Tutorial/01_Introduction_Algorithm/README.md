@@ -7,7 +7,7 @@ ___
 > BTK Akademiden aldığım Python Programlama Dili Eğitimi 1. Bölüm çalışmaları ve notları
 
 ### Contents
-> 01.1 [Introduction](https://github.com/kgokselkalyoncu/BTKAkademi/tree/main/Python_Programming_Language/Python_Programming_for_Beginners/Tutorial/01_Introduction_Algorithm/01_1-Introduction.txt)
+> 01.1 [Introduction](https://github.com/kgokselkalyoncu/BTKAkademi/tree/main/Python_Programming_Language/Python_Programming_for_Beginners/Tutorial/01_Introduction_Algorithm/01_1-Introduction.md)
 > 
 > 01.2 [Course Information](https://github.com/kgokselkalyoncu/BTKAkademi/tree/main/Python_Programming_Language/Python_Programming_for_Beginners/Tutorial/01_Introduction_Algorithm/01_2-Course-Information.txt)
 > 
