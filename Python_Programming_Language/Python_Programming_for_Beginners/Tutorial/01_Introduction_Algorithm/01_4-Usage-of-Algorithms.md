@@ -19,17 +19,17 @@
 >> 6. Bitti
 >> ```
 >> - Sözde Kod / Kaba Kod (Pseudocode)
->> ```python
->> print("This line will be printed.")
->> for i in range(0,5):
->>      print(i)
->> 
->> 
->> 
->> 
+>> ```pseudocode
+>> [Pseudocode]
+>> 1. Begin/Start
+>> 2. Input number1
+>> 3. Input number2
+>> 4. result = number1 + number2
+>> 5. Output result
+>> 6. End/Stop
 >> ```
->> ```csharp
->> Console.WriteLine("Hello World")
+>> ```pseudocode
+>> [Pseudocode]
 >> 1. Begin/Start
 >> 2. Define Integer number1
 >> 3. Define Integer number2
