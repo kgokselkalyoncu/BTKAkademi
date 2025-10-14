@@ -20,7 +20,6 @@
 >> ```
 >> - Sözde Kod / Kaba Kod (Pseudocode)
 >> ```pseudocode
->> [Pseudocode]
 >> 1. Begin/Start
 >> 2. Input number1
 >> 3. Input number2
@@ -29,7 +28,6 @@
 >> 6. End/Stop
 >> ```
 >> ```pseudocode
->> [Pseudocode]
 >> 1. Begin/Start
 >> 2. Define Integer number1
 >> 3. Define Integer number2
