@@ -1,10 +1,16 @@
-Algoritma Nedir?
-- Ünlü Matematikçi, Astronom ve Çoğrafya uzmanı Hârizmî nin Matematik problemlerinin
+# :zero::one: Introduction Algorithm :bookmark:
+## :three: What is an Algorithm?
+> ### Algoritma Nedir?
+> * Ünlü Matematikçi, Astronom ve Çoğrafya uzmanı Hârizmî nin Matematik problemlerinin
 çözümleri için yapmış olduğu sıralı adımlar listesidir. Tam adı Muhammed bin Mûsâ el-Hârizmî
 olan Fars bilim insanın isminin latince okunuşundan el-Hârizmî(Algoritmi) doğmuştur.
-
-- Genel tanım ise bir problemin çözümü için oluşturulan sıralı adımlar listesidir. Burada önemli kısım
-sıralı olması ve adım adım işlenmesi gerekiyor. Örneğin, ATM den para çekmek için önce kartı takmamız
+>
+> 
+> * Genel tanım ise bir problemin çözümü için oluşturulan sıralı adımlar listesidir. Burada önemli kısım
+sıralı olması ve adım adım işlenmesi gerekiyor.
+> 
+> 
+> * Örneğin, ATM den para çekmek için önce kartı takmamız
 gerekiyor. Tabi yeni geliştirilen teknolojiler ile artık kart yerine mobil uygulamadan da yararlanılıyor.
 Ancak kart takma kısmını bu sefer de mobil bankacılık uygulamasına giriş yapamak olarak değiştiğini görüyoruz.
 Adımların içeriğinde değişiklik olsa da işleyiş ve adım sırası yine korunmuş oluyor.
