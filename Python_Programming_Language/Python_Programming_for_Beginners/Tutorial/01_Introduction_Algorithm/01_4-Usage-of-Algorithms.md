@@ -44,4 +44,5 @@
 >>     ![flowchart-shapes](../../Assets/Images/Tutorial/01_Introduction_Algorithm/flowchart-shapes.png)
 >>   - Problemin çözümü için şekillerin yardımı daha kolay ve sade olur.
 >>   - Örnek algoritmanın akış diyagramı
+>> 
 >>     ![flowchart-shapes](../../Assets/Images/Tutorial/01_Introduction_Algorithm/algoritma-flowchart.png)
