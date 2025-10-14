@@ -40,6 +40,7 @@
 >> ```
 >> - Akış diyagramı (Flowchart)
 >>   - Özel olarak ifade edilen akış şekilleri kullanılır.
+>> 
 >>     ![flowchart-shapes](../../Assets/Images/Tutorial/01_Introduction_Algorithm/flowchart-shapes.png)
 >>   - Problemin çözümü için şekillerin yardımı daha kolay ve sade olur.
 >>   - Örnek algoritmanın akış diyagramı
