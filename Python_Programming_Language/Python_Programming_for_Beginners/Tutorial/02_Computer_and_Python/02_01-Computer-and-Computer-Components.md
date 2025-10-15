@@ -1,2 +1,2 @@
 # :zero::two: Computer and Python :bookmark:
-## :one: Computer and Computer Components
+## :zero::one: Computer and Computer Components

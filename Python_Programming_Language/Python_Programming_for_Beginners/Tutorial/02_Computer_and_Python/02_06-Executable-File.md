@@ -1,2 +1,2 @@
 # :zero::two: Computer and Python :bookmark:
-## :six: Executable File
+## :zero::six: Executable File

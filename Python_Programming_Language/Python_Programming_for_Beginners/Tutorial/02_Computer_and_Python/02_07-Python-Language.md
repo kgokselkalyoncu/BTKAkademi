@@ -1,2 +1,2 @@
 # :zero::two: Computer and Python :bookmark:
-## :seven: Python Language
+## :zero::seven: Python Language
