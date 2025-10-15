@@ -1,5 +1,5 @@
 # :zero::one: Introduction Algorithm :bookmark:
-## :three: What is an Algorithm?
+## :zero::three: What is an Algorithm?
 > ### Algoritma Nedir?
 > * Ünlü Matematikçi, Astronom ve Çoğrafya uzmanı Hârizmî nin Matematik problemlerinin
 çözümleri için yapmış olduğu sıralı adımlar listesidir. Tam adı Muhammed bin Mûsâ el-Hârizmî

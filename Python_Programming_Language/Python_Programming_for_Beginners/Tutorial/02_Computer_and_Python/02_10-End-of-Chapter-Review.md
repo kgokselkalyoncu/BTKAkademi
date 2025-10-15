@@ -1,2 +1,2 @@
 # :zero::two: Computer and Python :bookmark:
-## :one::zero::ten: End-of-Chapter Review
+## :one::zero: End-of-Chapter Review

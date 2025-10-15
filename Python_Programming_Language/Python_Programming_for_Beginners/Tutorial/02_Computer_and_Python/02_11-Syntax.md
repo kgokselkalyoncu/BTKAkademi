@@ -1,2 +1,2 @@
 # :zero::two: Computer and Python :bookmark:
-## :one::one::eleven: Syntax
+## :one::one: Syntax

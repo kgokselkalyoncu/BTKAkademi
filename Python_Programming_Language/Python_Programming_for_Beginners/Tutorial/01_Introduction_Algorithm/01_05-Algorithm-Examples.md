@@ -1,5 +1,5 @@
 # :zero::one: Introduction Algorithm :bookmark:
-## :five: Usage of Algorithms
+## :zero::five: Usage of Algorithms
 
 > SORU-01: Kullanıcıdan alınan a sayının asal sayı olup olmadığını kontrol eden kod
 >> Çözüm:

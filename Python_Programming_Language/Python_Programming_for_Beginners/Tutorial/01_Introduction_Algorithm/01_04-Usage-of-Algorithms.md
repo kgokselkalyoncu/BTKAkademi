@@ -1,5 +1,5 @@
 # :zero::one: Introduction Algorithm :bookmark:
-## :four: Usage of Algorithms
+## :zero::four: Usage of Algorithms
 > Algoritmalar bir problemin çözümü için yazılan adımlardı.
 > 
 > Algoritmayı 3 farklı şekilde ifade edebiliriz.
