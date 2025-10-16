@@ -15,7 +15,7 @@ ___
 > 
 > 02.04 [Compiler and Interpreter](02_04-Compiler-and-Interpreter.md)
 > 
-> 02.05 [Source Program](02_05-Source-Program.md)
+> 02.05 [Source Program](02_05-Source-Code.md)
 > 
 > 02.06 [Executable File](02_06-Executable-File.md)
 > 

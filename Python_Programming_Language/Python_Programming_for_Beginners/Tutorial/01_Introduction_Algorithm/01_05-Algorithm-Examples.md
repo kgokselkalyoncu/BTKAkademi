@@ -1,6 +1,6 @@
 # :zero::one: Introduction Algorithm :bookmark:
 ## :zero::five: Usage of Algorithms
-
+> ### Description
 > SORU-01: Kullanıcıdan alınan a sayının asal sayı olup olmadığını kontrol eden kod
 >> Çözüm:
 >> ```pseudocode

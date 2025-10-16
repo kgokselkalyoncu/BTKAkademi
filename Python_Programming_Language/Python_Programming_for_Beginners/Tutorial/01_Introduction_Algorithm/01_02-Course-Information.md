@@ -1,5 +1,6 @@
 # :zero::one: Introduction Algorithm :bookmark:
 ## :zero::two: Course Information
+> ### Description
 > Eğitim temel düzeyde Python öğretmektedir.
 Giriş seviyesinde ki bu eğitim ile Python konusundan temel okur yazarlık hedefleniyor.
 Bende bu eğitim ile Python konusunda bilgi sahibi olacağım.
