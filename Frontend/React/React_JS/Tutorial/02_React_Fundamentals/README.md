@@ -9,11 +9,11 @@ ___
 
 ### Contents
 
-> 02.01 [Why Should I Learn React](02_01-Why_Should_I_Learn_React.md) 
-> 02.02 [Developing React Without Installation](02_02-Developing_React_Without_Installation.md) 
-> 02.03 [Required Installations](02_03-Required_Installations.md) 
-> 02.04 [React Libraries with CDN](02_04-React_Libraries_with_CDN.md) 
-> 02.05 [JSX Transformation with Babel](02_05-JSX_Transformation_with_Babel.md) 
-> 02.06 [Creating a React Project](02_06-Creating_a_React_Project.md) 
-> 02.07 [Project Overview](02_07-Project_Overview.md) 
+> 02.01 [Why Should I Learn React](02_01_Why_Should_I_Learn_React.md) 
+> 02.02 [Developing A React Project Without Installation](02_02_Developing_A_React_Project_Without_Installation.md) 
+> 02.03 [Required Installations](02_03_Required_Installations.md) 
+> 02.04 [React Libraries With CDN](02_04_React_Libraries_With_CDN.md) 
+> 02.05 [JSX Transformation With Babel](02_05_JSX_Transformation_With_Babel.md) 
+> 02.06 [Creating A React Project](02_06_Creating_A_React_Project.md) 
+> 02.07 [Reviewing Our Project](02_07_Reviewing_Our_Project.md) 
 

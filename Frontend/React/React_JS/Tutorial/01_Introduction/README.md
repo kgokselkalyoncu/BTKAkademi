@@ -9,9 +9,5 @@ ___
 
 ### Contents
 
-> 01.00 [Introduction](01_00-Introduction.md) 
-> 01.01 [How the Internet Works](01_01-How_the_Internet_Works.md) 
-> 01.02 [How a Website Works](01_02-How_a_Website_Works.md) 
-> 01.03 [Backend, Frontend and Full Stack Developers](01_03-Backend_Frontend_FullStack_Developers.md) 
-> 01.04 [What is an Editor and Setup](01_04-What_is_an_Editor_and_Setup.md) 
-
+> 01.01 [Introduction](01_01_Introduction.md) 
+> 01.02 [Information](01_02_Information.md) 

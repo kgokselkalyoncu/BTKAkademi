@@ -9,10 +9,10 @@ ___
 
 ### Contents
 
-> 07.01 [Project Setup](07_01-Project_Setup.md) 
-> 07.02 [Handling Form Submit](07_02-Handling_Form_Submit.md) 
-> 07.03 [User Inputs with useState](07_03-User_Inputs_with_useState.md) 
-> 07.04 [User Inputs with useRef](07_04-User_Inputs_with_useRef.md) 
-> 07.05 [User Inputs with FormData](07_05-User_Inputs_with_FormData.md) 
-> 07.06 [Resetting Form Data](07_06-Resetting_Form_Data.md) 
+> 07.01 [Project Setup](07_01_Project_Setup.md) 
+> 07.02 [Handling Form Submit](07_02_Handling_Form_Submit.md) 
+> 07.03 [User Inputs With useState](07_03_User_Inputs_With_useState.md) 
+> 07.04 [User Inputs With useRef](07_04_User_Inputs_With_useRef.md) 
+> 07.05 [User Inputs With FormData](07_05_User_Inputs_With_FormData.md) 
+> 07.06 [Resetting Form Data](07_06_Resetting_Form_Data.md) 
 

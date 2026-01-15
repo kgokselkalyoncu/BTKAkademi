@@ -9,5 +9,5 @@ ___
 
 ### Contents
 
-> 12.01 [Course Completion and Closing](12_01-Course_Completion_and_Closing.md) 
+> 12.01 [Course End Closing](12_01_Course_End_Closing.md) 
 
